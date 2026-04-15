@@ -1,4 +1,4 @@
-# firstact 📊
+# firstact
 
 Librería de matemáticas actuariales básicas en Python.  
 Basada en la **Illustrative Life Table (ILT)** de la SOA a $i = 6\%$.
