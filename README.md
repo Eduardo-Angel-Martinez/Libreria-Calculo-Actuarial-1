@@ -3,7 +3,7 @@
 Librería de matemáticas actuariales básicas en Python.  
 Basada en la **Illustrative Life Table (ILT)** de la SOA a $i = 6\%$.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eduardo-Angel-Martinez/fdd_p26/blob/libreria/estudiantes/Eduardo-Angel-Martinez/python/firstact/examples/firstact_tutorial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Eduardo-Angel-Martinez/Libreria-Calculo-Actuarial-1/blob/main/examples/firstact_tutorial.ipynb)
 [![PyPI version](https://badge.fury.io/py/firstact.svg)](https://pypi.org/project/firstact/)
 
 ---
